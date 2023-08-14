@@ -1,9 +1,10 @@
+import Navber from "../components/shared/Navber/Navber";
 
 
 const Main = () => {
     return (
         <div>
-            <h1 className="text-center text-lg text-red-600">This is masud</h1>
+           <Navber></Navber>
         </div>
     );
 };
